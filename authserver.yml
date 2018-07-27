@@ -1,8 +1,8 @@
 {
     "Audience": {
         "Secret": "Y2F0Y2hlciUyMHdvbmclMjBsb3ZlJTIwLm5ldA==",
-        "Iss": "http://www.c-sharpcorner.com/members/catcher-wongT",
-        "Aud": "Catcher WongT"
+        "Iss": "http://www.c-sharpcorner.com/members/catcher-wong",
+        "Aud": "Catcher Wong"
     },
    
     "eureka": {       
