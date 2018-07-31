@@ -1,7 +1,0 @@
-"eureka": {
-    "client": {
-        "serviceUrl": "http://192.168.2.20:8761/eureka/",
-        "shouldRegisterWithEureka": true,
-        "validateCertificates": false
-    }
-}
