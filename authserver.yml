@@ -6,6 +6,6 @@
     },
    
     "eureka": {       
-        "instance": { "port": 5009 }
+        "instance": { "port": 5559 }
     }
 }
