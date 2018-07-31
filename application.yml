@@ -1,0 +1,18 @@
+{
+    "spring": {
+            
+            "cloud": {
+                "config": {
+                    "uri": "http://192.168.2.113:8888",
+                    "validate_certifates": false
+                }
+            }
+        },
+    "eureka": {
+        "client": {
+            "serviceUrl": "http://192.168.2.20:8761/eureka/",
+            "shouldRegisterWithEureka": true,
+            "validateCertificates": false
+        }
+    }
+}
