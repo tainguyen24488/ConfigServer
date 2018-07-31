@@ -4,8 +4,12 @@
         "Iss": "http://www.c-sharpcorner.com/members/catcher-wong",
         "Aud": "Catcher Wong"
     },
-   
-    "eureka": {       
-        "instance": { "port": 5559 }
+    "Logging": {
+        "IncludeScopes": true,
+        "LogLevel": {
+            "Default": "Trace",
+            "System": "Error",
+            "Microsoft": "Error"
+        }
     }
 }
