@@ -1,6 +1,6 @@
 {
     "Audience": {
-        "Secret": "Y2F0Y2hlciUyMHdvbmclMjBsb3ZlJTIwLm5ldA==",
+        "Secret": "my-secret-token-to-change-in-production",
         "Iss": "http://www.c-sharpcorner.com/members/catcher-wong",
         "Aud": "Infodation"
     },
